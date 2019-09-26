@@ -24,8 +24,6 @@ http://62.210.71.235:9000/live/liliana/liliana/81.ts
 http://62.210.71.235:9000/live/liliana/liliana/36.ts
 
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="ENTERTAINMENT" tvg-id="RTPi" tvg-name="", RTP INTERNACIONAL
-http://62.210.71.235:9000/live/liliana/liliana/72.ts
 
 #EXTINF:-1 tvg-logo="noimage.png" group-title="ENTERTAINMENT" tvg-id="" tvg-name="RTP MEMORIA", RTP MEMORIA
 http://62.210.71.235:9000/live/liliana/liliana/91.ts
@@ -59,7 +57,7 @@ http://78.mytektv.net:8000/12axh902b2/51759623/290
 
 #EXTINF:-1 tvg-logo="http://logo.mytektv.net/logo/nn/nickelodeon_us.png" group-title="KIDS" tvg-id="NICKELODEON" tvg-name="", NICKELODEON
 http://78.mytektv.net:8000/12axh902b2/51759623/291
-#EXTINF:-1 tvg-logo="noimage.png" group-title="MOVIES" tvg-id="TV SERIES HD" tvg-name="", TV SERIES HD
+#EXTINF:-1 tvg-logo="noimage.png" group-title="MOVIES" tvg-id="TVSERIES" tvg-name="", TVSERIES
 http://62.210.71.235:9000/live/liliana/liliana/3.ts
 
 #EXTINF:-1 tvg-logo="noimage.png" group-title="MOVIES" tvg-id="TVCINE 1" tvg-name="", TVCINE 1
@@ -106,19 +104,19 @@ http://62.210.71.235:9000/live/liliana/liliana/64.ts
 
 
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="EDUCATION" tvg-id="NATIONAL GEOGRAPHIC HD" tvg-name="", NATIONAL GEOGRAPHIC HD
+#EXTINF:-1 tvg-logo="noimage.png" group-title="EDUCATION" tvg-id="NATIONAL GEOGRAPHIC" tvg-name="", NATIONAL GEOGRAPHIC
 http://62.210.71.235:9000/live/liliana/liliana/112.ts
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="EDUCATION" tvg-id="DISCOVERY" tvg-name="", DISCOVERY
+#EXTINF:-1 tvg-logo="noimage.png" group-title="EDUCATION" tvg-id="DISCOVERY CHANNEL" tvg-name="", DISCOVERY CHANNEL
 http://62.210.71.235:9000/live/liliana/liliana/133.ts
 
 #EXTINF:-1 tvg-logo="noimage.png" group-title="EDUCATION" tvg-id="NAT GEO WILD" tvg-name="", NAT GEO WILD
 http://62.210.71.235:9000/live/liliana/liliana/49.ts
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="EDUCATION" tvg-id="CAÇA E PESCA" tvg-name="", CAÇA E PESCA
+#EXTINF:-1 tvg-logo="noimage.png" group-title="EDUCATION" tvg-id="CACA E PESCA" tvg-name="", CACA E PESCA
 http://62.210.71.235:9000/live/liliana/liliana/79.ts
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="EDUCATION" tvg-id="CAÇAVISION" tvg-name="", CAÇAVISION
+#EXTINF:-1 tvg-logo="noimage.png" group-title="EDUCATION" tvg-id="CACAVISION" tvg-name="", CACAVISION
 http://62.210.71.235:9000/live/liliana/liliana/44.ts
 
 #EXTINF:-1 tvg-logo="noimage.png" group-title="EDUCATION" tvg-id="TOROS" tvg-name="", TOROS
@@ -127,7 +125,7 @@ http://62.210.71.235:9000/live/liliana/liliana/45.ts
 #EXTINF:-1 tvg-logo="noimage.png" group-title="LIFE_STYLE" tvg-id="TLC" tvg-name="", TLC
 http://62.210.71.235:9000/live/liliana/liliana/92.ts
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="LIFE_STYLE" tvg-id="E!" tvg-name="", E!
+#EXTINF:-1 tvg-logo="noimage.png" group-title="LIFE_STYLE" tvg-id="E! ENTERTAINMENT" tvg-name="", E! ENTERTAINMENT
 http://62.210.71.235:9000/live/liliana/liliana/101.ts
 
 #EXTINF:-1 tvg-logo="noimage.png" group-title="LIFE_STYLE" tvg-id="TV CULTURA" tvg-name="", TV CULTURA
