@@ -1,8 +1,8 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="noimage.png" group-title="ENTERTAINMENT" tvg-id="" tvg-name="", RTP 1
+#EXTINF:-1 tvg-logo="https://github.com/f0nZ/epg-tv-portuguesa/blob/master/logos/RTP%201.PNG" group-title="ENTERTAINMENT" tvg-id="" tvg-name="", RTP 1
 http://62.210.71.235:9000/live/liliana/liliana/85.ts
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="ENTERTAINMENT" tvg-id="" tvg-name="", RTP 2
+#EXTINF:-1 tvg-logo="https://github.com/f0nZ/epg-tv-portuguesa/blob/master/logos/RTP%202.PNG" group-title="ENTERTAINMENT" tvg-id="" tvg-name="", RTP 2
 http://62.210.71.235:9000/live/liliana/liliana/86.ts
 
 #EXTINF:-1 tvg-logo="noimage.png" group-title="ENTERTAINMENT" tvg-id="" tvg-name="", SIC
@@ -62,28 +62,28 @@ http://62.210.71.235:9000/live/liliana/liliana/125.ts
 #EXTINF:-1 tvg-logo="noimage.png" group-title="ENTERTAINMENT" tvg-id="" tvg-name="", TVE 2
 http://62.210.71.235:9000/live/liliana/liliana/69.ts
 
-#EXTINF:-1 tvg-logo="http://logo.mytektv.net/logo/ss/sic_pt_k.png" group-title="KIDS" tvg-id="" tvg-name="", SIC_K
+#EXTINF:-1 tvg-logo="http://logo.mytektv.net/logo/ss/sic_pt_k.png" group-title="KIDS" tvg-id="" tvg-name="", SIC K
 http://78.mytektv.net:8000/12axh902b2/51759623/273
 
-#EXTINF:-1 tvg-logo="http://logo.mytektv.net/logo/cc/canal_panda_pt.png" group-title="KIDS" tvg-id="" tvg-name="", CANAL_PANDA
+#EXTINF:-1 tvg-logo="http://logo.mytektv.net/logo/cc/canal_panda_pt.png" group-title="KIDS" tvg-id="" tvg-name="", CANAL PANDA
 http://78.mytektv.net:8000/12axh902b2/51759623/293
 
 #EXTINF:-1 tvg-logo="http://logo.mytektv.net/logo/bb/biggs_pt.png" group-title="KIDS" tvg-id="" tvg-name="", BIGGS
 http://78.mytektv.net:8000/12axh902b2/51759623/292
 
-#EXTINF:-1 tvg-logo="http://logo.mytektv.net/logo/jj/jim_jam_global.png" group-title="KIDS" tvg-id="" tvg-name="", JIM_JAM
+#EXTINF:-1 tvg-logo="http://logo.mytektv.net/logo/jj/jim_jam_global.png" group-title="KIDS" tvg-id="" tvg-name="", JIM JAM
 http://78.mytektv.net:8000/12axh902b2/51759623/289
 
-#EXTINF:-1 tvg-logo="http://logo.mytektv.net/logo/cc/cartoon_network_global.png" group-title="KIDS" tvg-id="" tvg-name="", CARTOON_NETWORK
+#EXTINF:-1 tvg-logo="http://logo.mytektv.net/logo/cc/cartoon_network_global.png" group-title="KIDS" tvg-id="" tvg-name="", CARTOON NETWORK
 http://78.mytektv.net:8000/12axh902b2/51759623/288
 
-#EXTINF:-1 tvg-logo="http://logo.mytektv.net/logo/dd/disney_channel_global.png" group-title="KIDS" tvg-id="" tvg-name="", DISNEY_CHANNEL
+#EXTINF:-1 tvg-logo="http://logo.mytektv.net/logo/dd/disney_channel_global.png" group-title="KIDS" tvg-id="" tvg-name="", DISNEY CHANNEL
 http://78.mytektv.net:8000/12axh902b2/51759623/295
 
-#EXTINF:-1 tvg-logo="http://logo.mytektv.net/logo/dd/disney_junior_us.png" group-title="KIDS" tvg-id="" tvg-name="", DISNEY_JUNIOR
+#EXTINF:-1 tvg-logo="http://logo.mytektv.net/logo/dd/disney_junior_us.png" group-title="KIDS" tvg-id="" tvg-name="", DISNEY JUNIOR
 http://78.mytektv.net:8000/12axh902b2/51759623/294
 
-#EXTINF:-1 tvg-logo="http://logo.mytektv.net/logo/nn/nick_jr_us.png" group-title="KIDS" tvg-id="" tvg-name="", NICK_JUNIOR
+#EXTINF:-1 tvg-logo="http://logo.mytektv.net/logo/nn/nick_jr_us.png" group-title="KIDS" tvg-id="" tvg-name="", NICK JUNIOR
 http://78.mytektv.net:8000/12axh902b2/51759623/290
 
 #EXTINF:-1 tvg-logo="http://logo.mytektv.net/logo/nn/nickelodeon_us.png" group-title="KIDS" tvg-id="" tvg-name="", NICKELODEON
@@ -91,16 +91,16 @@ http://78.mytektv.net:8000/12axh902b2/51759623/291
 #EXTINF:-1 tvg-logo="noimage.png" group-title="MOVIES" tvg-id="" tvg-name="", TV SERIES
 http://62.210.71.235:9000/live/liliana/liliana/3.ts
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="MOVIES" tvg-id="" tvg-name="", TVCINE 1
+#EXTINF:-1 tvg-logo="noimage.png" group-title="MOVIES" tvg-id="" tvg-name="", TV CINE 1
 http://62.210.71.235:9000/live/liliana/liliana/65.ts
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="MOVIES" tvg-id="" tvg-name="", TVCINE 2
+#EXTINF:-1 tvg-logo="noimage.png" group-title="MOVIES" tvg-id="" tvg-name="", TV CINE 2
 http://62.210.71.235:9000/live/liliana/liliana/66.ts
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="MOVIES" tvg-id="" tvg-name="", TVCINE 3
+#EXTINF:-1 tvg-logo="noimage.png" group-title="MOVIES" tvg-id="" tvg-name="", TV CINE 3
 http://62.210.71.235:9000/live/liliana/liliana/67.ts
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="MOVIES" tvg-id="" tvg-name="", TVCINE 4
+#EXTINF:-1 tvg-logo="noimage.png" group-title="MOVIES" tvg-id="" tvg-name="", TV CINE 4
 http://62.210.71.235:9000/live/liliana/liliana/68.ts
 
 #EXTINF:-1 tvg-logo="noimage.png" group-title="MOVIES" tvg-id="" tvg-name="", FOX LIFE HD
@@ -115,19 +115,19 @@ http://62.210.71.235:9000/live/liliana/liliana/127.ts
 #EXTINF:-1 tvg-logo="noimage.png" group-title="MOVIES" tvg-id="" tvg-name="", NOS STUDIOS
 http://62.210.71.235:9000/live/liliana/liliana/127.ts
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="SPORTS" tvg-id="" tvg-name="", SPORT TV 1 HD
+#EXTINF:-1 tvg-logo="noimage.png" group-title="SPORTS" tvg-id="" tvg-name="", SPORT TV 1 
 http://62.210.71.235:9000/live/liliana/liliana/58.ts
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="SPORTS" tvg-id="" tvg-name="", SPORT TV 2 HD
+#EXTINF:-1 tvg-logo="noimage.png" group-title="SPORTS" tvg-id="" tvg-name="", SPORT TV 2
 http://62.210.71.235:9000/live/liliana/liliana/59.ts
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="SPORTS" tvg-id="" tvg-name="", SPORT TV 3 HD
+#EXTINF:-1 tvg-logo="noimage.png" group-title="SPORTS" tvg-id="" tvg-name="", SPORT TV 3
 http://62.210.71.235:9000/live/liliana/liliana/60.ts
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="SPORTS" tvg-id="" tvg-name="", SPORT TV 4 HD
+#EXTINF:-1 tvg-logo="noimage.png" group-title="SPORTS" tvg-id="" tvg-name="", SPORT TV 4
 http://62.210.71.235:9000/live/liliana/liliana/61.ts
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="SPORTS" tvg-id="" tvg-name="", SPORT TV 5 HD
+#EXTINF:-1 tvg-logo="noimage.png" group-title="SPORTS" tvg-id="" tvg-name="", SPORT TV 5
 http://62.210.71.235:9000/live/liliana/liliana/62.ts
 
 #EXTINF:-1 tvg-logo="noimage.png" group-title="SPORTS" tvg-id="" tvg-name="", SPORT TV + HD
