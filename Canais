@@ -1,0 +1,231 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="noimage.png" group-title="ENTERTAINMENT" tvg-id="" tvg-name="", RTP 1
+http://62.210.71.235:9000/live/liliana/liliana/85.ts
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="ENTERTAINMENT" tvg-id="" tvg-name="", RTP 2
+http://62.210.71.235:9000/live/liliana/liliana/86.ts
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="ENTERTAINMENT" tvg-id="" tvg-name="", SIC
+http://62.210.71.235:9000/live/liliana/liliana/111.ts
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="ENTERTAINMENT" tvg-id="" tvg-name="", TVI
+http://62.210.71.235:9000/live/liliana/liliana/136.ts
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="ENTERTAINMENT" tvg-id="" tvg-name="", SIC NOTICIAS
+http://62.210.71.235:9000/live/liliana/liliana/37.ts
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="ENTERTAINMENT" tvg-id="" tvg-name="", RTP 3
+http://62.210.71.235:9000/live/liliana/liliana/88.ts
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="ENTERTAINMENT" tvg-id="" tvg-name="", TVI 24
+http://62.210.71.235:9000/live/liliana/liliana/81.ts
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="ENTERTAINMENT" tvg-id="" tvg-name="", CMTV
+http://62.210.71.235:9000/live/liliana/liliana/36.ts
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="ENTERTAINMENT" tvg-id="" tvg-name="", RTP MADEIRA
+http://62.210.71.235:9000/live/liliana/liliana/84.ts
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="ENTERTAINMENT" tvg-id="" tvg-name="", RTP ACORES
+http://62.210.71.235:9000/live/liliana/liliana/103.ts
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="ENTERTAINMENT" tvg-id="" tvg-name="", RTPi
+http://62.210.71.235:9000/live/liliana/liliana/72.ts
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="ENTERTAINMENT" tvg-id="" tvg-name="", RTP MEMORIA
+http://62.210.71.235:9000/live/liliana/liliana/91.ts
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="ENTERTAINMENT" tvg-id="" tvg-name="", RTP AFRICA
+http://62.210.71.235:9000/live/liliana/liliana/80.ts
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="ENTERTAINMENT" tvg-id="" tvg-name="", CANAL 11
+http://62.210.71.235:9000/live/liliana/liliana/115.ts
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="ENTERTAINMENT" tvg-id="" tvg-name="", CBS NEWS
+http://62.210.71.235:9000/live/liliana/liliana/15.ts
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="ENTERTAINMENT" tvg-id="" tvg-name="", NEOX
+http://62.210.71.235:9000/live/liliana/liliana/104.ts
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="ENTERTAINMENT" tvg-id="" tvg-name="", MEGA
+http://62.210.71.235:9000/live/liliana/liliana/93.ts
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="ENTERTAINMENT" tvg-id="" tvg-name="", TELE 5
+http://62.210.71.235:9000/live/liliana/liliana/105.ts
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="ENTERTAINMENT" tvg-id="" tvg-name="", ITV 1
+http://62.210.71.235:9000/live/liliana/liliana/24.ts
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="ENTERTAINMENT" tvg-id="" tvg-name="", TVE 1
+http://62.210.71.235:9000/live/liliana/liliana/125.ts
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="ENTERTAINMENT" tvg-id="" tvg-name="", TVE 2
+http://62.210.71.235:9000/live/liliana/liliana/69.ts
+
+#EXTINF:-1 tvg-logo="http://logo.mytektv.net/logo/ss/sic_pt_k.png" group-title="KIDS" tvg-id="" tvg-name="", SIC_K
+http://78.mytektv.net:8000/12axh902b2/51759623/273
+
+#EXTINF:-1 tvg-logo="http://logo.mytektv.net/logo/cc/canal_panda_pt.png" group-title="KIDS" tvg-id="" tvg-name="", CANAL_PANDA
+http://78.mytektv.net:8000/12axh902b2/51759623/293
+
+#EXTINF:-1 tvg-logo="http://logo.mytektv.net/logo/bb/biggs_pt.png" group-title="KIDS" tvg-id="" tvg-name="", BIGGS
+http://78.mytektv.net:8000/12axh902b2/51759623/292
+
+#EXTINF:-1 tvg-logo="http://logo.mytektv.net/logo/jj/jim_jam_global.png" group-title="KIDS" tvg-id="" tvg-name="", JIM_JAM
+http://78.mytektv.net:8000/12axh902b2/51759623/289
+
+#EXTINF:-1 tvg-logo="http://logo.mytektv.net/logo/cc/cartoon_network_global.png" group-title="KIDS" tvg-id="" tvg-name="", CARTOON_NETWORK
+http://78.mytektv.net:8000/12axh902b2/51759623/288
+
+#EXTINF:-1 tvg-logo="http://logo.mytektv.net/logo/dd/disney_channel_global.png" group-title="KIDS" tvg-id="" tvg-name="", DISNEY_CHANNEL
+http://78.mytektv.net:8000/12axh902b2/51759623/295
+
+#EXTINF:-1 tvg-logo="http://logo.mytektv.net/logo/dd/disney_junior_us.png" group-title="KIDS" tvg-id="" tvg-name="", DISNEY_JUNIOR
+http://78.mytektv.net:8000/12axh902b2/51759623/294
+
+#EXTINF:-1 tvg-logo="http://logo.mytektv.net/logo/nn/nick_jr_us.png" group-title="KIDS" tvg-id="" tvg-name="", NICK_JUNIOR
+http://78.mytektv.net:8000/12axh902b2/51759623/290
+
+#EXTINF:-1 tvg-logo="http://logo.mytektv.net/logo/nn/nickelodeon_us.png" group-title="KIDS" tvg-id="" tvg-name="", NICKELODEON
+http://78.mytektv.net:8000/12axh902b2/51759623/291
+#EXTINF:-1 tvg-logo="noimage.png" group-title="MOVIES" tvg-id="" tvg-name="", TV SERIES
+http://62.210.71.235:9000/live/liliana/liliana/3.ts
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="MOVIES" tvg-id="" tvg-name="", TVCINE 1
+http://62.210.71.235:9000/live/liliana/liliana/65.ts
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="MOVIES" tvg-id="" tvg-name="", TVCINE 2
+http://62.210.71.235:9000/live/liliana/liliana/66.ts
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="MOVIES" tvg-id="" tvg-name="", TVCINE 3
+http://62.210.71.235:9000/live/liliana/liliana/67.ts
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="MOVIES" tvg-id="" tvg-name="", TVCINE 4
+http://62.210.71.235:9000/live/liliana/liliana/68.ts
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="MOVIES" tvg-id="" tvg-name="", FOX LIFE HD
+http://62.210.71.235:9000/live/liliana/liliana/96.ts
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="MOVIES" tvg-id="" tvg-name="", FOX COMEDY
+http://62.210.71.235:9000/live/liliana/liliana/31.ts
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="MOVIES" tvg-id="" tvg-name="", NOS STUDIOS
+http://62.210.71.235:9000/live/liliana/liliana/127.ts
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="MOVIES" tvg-id="" tvg-name="", NOS STUDIOS
+http://62.210.71.235:9000/live/liliana/liliana/127.ts
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="SPORTS" tvg-id="" tvg-name="", SPORT TV 1 HD
+http://62.210.71.235:9000/live/liliana/liliana/58.ts
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="SPORTS" tvg-id="" tvg-name="", SPORT TV 2 HD
+http://62.210.71.235:9000/live/liliana/liliana/59.ts
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="SPORTS" tvg-id="" tvg-name="", SPORT TV 3 HD
+http://62.210.71.235:9000/live/liliana/liliana/60.ts
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="SPORTS" tvg-id="" tvg-name="", SPORT TV 4 HD
+http://62.210.71.235:9000/live/liliana/liliana/61.ts
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="SPORTS" tvg-id="" tvg-name="", SPORT TV 5 HD
+http://62.210.71.235:9000/live/liliana/liliana/62.ts
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="SPORTS" tvg-id="" tvg-name="", SPORT TV + HD
+http://62.210.71.235:9000/live/liliana/liliana/63.ts
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="SPORTS" tvg-id="" tvg-name="", BTV
+http://62.210.71.235:9000/live/liliana/liliana/64.ts
+
+
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="EDUCATION" tvg-id="" tvg-name="", NATIONAL GEOGRAPHIC
+http://62.210.71.235:9000/live/liliana/liliana/112.ts
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="EDUCATION" tvg-id="" tvg-name="", DISCOVERY
+http://62.210.71.235:9000/live/liliana/liliana/133.ts
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="EDUCATION" tvg-id="" tvg-name="", NAT GEO WILD
+http://62.210.71.235:9000/live/liliana/liliana/49.ts
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="EDUCATION" tvg-id="" tvg-name="", CAÇA E PESCA
+http://62.210.71.235:9000/live/liliana/liliana/79.ts
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="EDUCATION" tvg-id="" tvg-name="", CAÇAVISION
+http://62.210.71.235:9000/live/liliana/liliana/44.ts
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="EDUCATION" tvg-id="" tvg-name="", TOROS
+http://62.210.71.235:9000/live/liliana/liliana/45.ts
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="LIFE_STYLE" tvg-id="" tvg-name="", TLC
+http://62.210.71.235:9000/live/liliana/liliana/92.ts
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="LIFE_STYLE" tvg-id="" tvg-name="", E!
+http://62.210.71.235:9000/live/liliana/liliana/101.ts
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="LIFE_STYLE" tvg-id="" tvg-name="", TV CULTURA
+http://62.210.71.235:9000/live/liliana/liliana/4.ts
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="LIFE_STYLE" tvg-id="" tvg-name="", TV GAZETA HD
+http://62.210.71.235:9000/live/liliana/liliana/167.ts
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="LIFE_STYLE" tvg-id="" tvg-name="", GLOBO NOW
+http://62.210.71.235:9000/live/liliana/liliana/50.ts
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="LIFE_STYLE" tvg-id="" tvg-name="", TV GLOBO
+http://62.210.71.235:9000/live/liliana/liliana/142.ts
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="LIFE_STYLE" tvg-id="" tvg-name="", REDE TV
+http://62.210.71.235:9000/live/liliana/liliana/94.ts
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="LIFE_STYLE" tvg-id="" tvg-name="", SBT
+http://62.210.71.235:9000/live/liliana/liliana/71.ts
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="LIFE_STYLE" tvg-id="" tvg-name="", BAND
+http://62.210.71.235:9000/live/liliana/liliana/161.ts
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="LIFE_STYLE" tvg-id="" tvg-name="", RECORD
+http://62.210.71.235:9000/live/liliana/liliana/110.ts
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="LIFE_STYLE" tvg-id="" tvg-name="", RECORD NEWS
+http://62.210.71.235:9000/live/liliana/liliana/151.ts
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="LIFE_STYLE" tvg-id="" tvg-name="", TPA 1
+http://62.210.71.235:9000/live/liliana/liliana/78.ts
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="LIFE_STYLE" tvg-id="" tvg-name="", TPA INTERNACIONAL
+http://62.210.71.235:9000/live/liliana/liliana/73.ts
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="LIFE_STYLE" tvg-id="" tvg-name="", ZAP VIVA HD
+http://62.210.71.235:9000/live/liliana/liliana/162.ts
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="LIFE_STYLE" tvg-id="" tvg-name="", TVM 1
+http://62.210.71.235:9000/live/liliana/liliana/74.ts
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="LIFE_STYLE" tvg-id="" tvg-name="", TVM INTERNACIONAL
+http://62.210.71.235:9000/live/liliana/liliana/75.ts
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="LIFE_STYLE" tvg-id="" tvg-name="", TCV CABO VERDE
+http://62.210.71.235:9000/live/liliana/liliana/26.ts
+
+#EXTINF:-1 tvg-logo="http://logo.smart-house.tn/poster/10013.jpg" group-title="PREMIER" tvg-id="" tvg-name="", PT_Aladdin_2019
+http://78.mytektv.net:8000/movie/12axh902b2/51759623/10013.mkv
+
+#EXTINF:-1 tvg-logo="http://logo.smart-house.tn/poster/10012.jpg" group-title="PREMIER" tvg-id="" tvg-name="", PT_Avengers_Endgame_2019
+http://78.mytektv.net:8000/movie/12axh902b2/51759623/10012.mkv
+
+#EXTINF:-1 tvg-logo="http://logo.smart-house.tn/poster/10011.jpg" group-title="PREMIER" tvg-id="" tvg-name="", PT_John_Wick_Chapter_3-Parabellum_2019
+http://78.mytektv.net:8000/movie/12axh902b2/51759623/10011.mkv
+
+#EXTINF:-1 tvg-logo="http://logo.smart-house.tn/poster/10015.jpg" group-title="PREMIER" tvg-id="" tvg-name="", PT_Men_In_Black_International_2019
+http://78.mytektv.net:8000/movie/12axh902b2/51759623/10015.mkv
+
+#EXTINF:-1 tvg-logo="http://logo.smart-house.tn/poster/10014.jpg" group-title="PREMIER" tvg-id="" tvg-name="", PT_Rocketman_2019
+http://78.mytektv.net:8000/movie/12axh902b2/51759623/10014.mkv
+
+
+
+
+
+
+
+
