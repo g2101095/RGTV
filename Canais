@@ -23,13 +23,8 @@ http://62.210.71.235:9000/live/liliana/liliana/81.ts
 #EXTINF:-1 tvg-logo="noimage.png" group-title="ENTERTAINMENT" tvg-id="CMTV" tvg-name="", CMTV
 http://62.210.71.235:9000/live/liliana/liliana/36.ts
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="ENTERTAINMENT" tvg-id="" tvg-name="", RTP MADEIRA
-http://62.210.71.235:9000/live/liliana/liliana/84.ts
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="ENTERTAINMENT" tvg-id="RTP MADEIRA" tvg-name="", RTP ACORES
-http://62.210.71.235:9000/live/liliana/liliana/103.ts
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="ENTERTAINMENT" tvg-id="RTPi" tvg-name="", RTPi
+#EXTINF:-1 tvg-logo="noimage.png" group-title="ENTERTAINMENT" tvg-id="RTPi" tvg-name="", RTP INTERNACIONAL
 http://62.210.71.235:9000/live/liliana/liliana/72.ts
 
 #EXTINF:-1 tvg-logo="noimage.png" group-title="ENTERTAINMENT" tvg-id="" tvg-name="RTP MEMORIA", RTP MEMORIA
@@ -38,34 +33,10 @@ http://62.210.71.235:9000/live/liliana/liliana/91.ts
 #EXTINF:-1 tvg-logo="noimage.png" group-title="ENTERTAINMENT" tvg-id="RTP AFRICA" tvg-name="", RTP AFRICA
 http://62.210.71.235:9000/live/liliana/liliana/80.ts
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="ENTERTAINMENT" tvg-id="CANAL 11" tvg-name="", CANAL 11
-http://62.210.71.235:9000/live/liliana/liliana/115.ts
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="ENTERTAINMENT" tvg-id="CBS NEWS" tvg-name="", CBS NEWS
-http://62.210.71.235:9000/live/liliana/liliana/15.ts
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="ENTERTAINMENT" tvg-id="NEOX" tvg-name="", NEOX
-http://62.210.71.235:9000/live/liliana/liliana/104.ts
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="ENTERTAINMENT" tvg-id="MEGA" tvg-name="", MEGA
-http://62.210.71.235:9000/live/liliana/liliana/93.ts
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="ENTERTAINMENT" tvg-id="TELE 5" tvg-name="", TELE 5
-http://62.210.71.235:9000/live/liliana/liliana/105.ts
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="ENTERTAINMENT" tvg-id="ITV 1" tvg-name="", ITV 1
-http://62.210.71.235:9000/live/liliana/liliana/24.ts
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="ENTERTAINMENT" tvg-id="TVE 1" tvg-name="", TVE 1
-http://62.210.71.235:9000/live/liliana/liliana/125.ts
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="ENTERTAINMENT" tvg-id="TVE 2" tvg-name="", TVE 2
-http://62.210.71.235:9000/live/liliana/liliana/69.ts
-
 #EXTINF:-1 tvg-logo="http://logo.mytektv.net/logo/ss/sic_pt_k.png" group-title="KIDS" tvg-id="SIC K" tvg-name="", SIC K
 http://78.mytektv.net:8000/12axh902b2/51759623/273
 
-#EXTINF:-1 tvg-logo="http://logo.mytektv.net/logo/cc/canal_panda_pt.png" group-title="KIDS" tvg-id="CANAL PANDA" tvg-name="", CANAL PANDA
+#EXTINF:-1 tvg-logo="http://logo.mytektv.net/logo/cc/canal_panda_pt.png" group-title="KIDS" tvg-id="PANDA" tvg-name="", PANDA
 http://78.mytektv.net:8000/12axh902b2/51759623/293
 
 #EXTINF:-1 tvg-logo="http://logo.mytektv.net/logo/bb/biggs_pt.png" group-title="KIDS" tvg-id="BIGGS" tvg-name="", BIGGS
@@ -77,18 +48,18 @@ http://78.mytektv.net:8000/12axh902b2/51759623/289
 #EXTINF:-1 tvg-logo="http://logo.mytektv.net/logo/cc/cartoon_network_global.png" group-title="KIDS" tvg-id="CARTOON NETWORK" tvg-name="", CARTOON NETWORK
 http://78.mytektv.net:8000/12axh902b2/51759623/288
 
-#EXTINF:-1 tvg-logo="http://logo.mytektv.net/logo/dd/disney_channel_global.png" group-title="KIDS" tvg-id="" tvg-name="", DISNEY CHANNEL
+#EXTINF:-1 tvg-logo="http://logo.mytektv.net/logo/dd/disney_channel_global.png" group-title="KIDS" tvg-id="DISNEY CHANNEL" tvg-name="", DISNEY CHANNEL
 http://78.mytektv.net:8000/12axh902b2/51759623/295
 
-#EXTINF:-1 tvg-logo="http://logo.mytektv.net/logo/dd/disney_junior_us.png" group-title="KIDS" tvg-id="DISNEY CHANNEL" tvg-name="", DISNEY JUNIOR
+#EXTINF:-1 tvg-logo="http://logo.mytektv.net/logo/dd/disney_junior_us.png" group-title="KIDS" tvg-id="DISNEY JUNIOR" tvg-name="", DISNEY JUNIOR
 http://78.mytektv.net:8000/12axh902b2/51759623/294
 
-#EXTINF:-1 tvg-logo="http://logo.mytektv.net/logo/nn/nick_jr_us.png" group-title="KIDS" tvg-id="NICK JUNIOR" tvg-name="", NICK JUNIOR
+#EXTINF:-1 tvg-logo="http://logo.mytektv.net/logo/nn/nick_jr_us.png" group-title="KIDS" tvg-id="NICK JR" tvg-name="", NICK JR
 http://78.mytektv.net:8000/12axh902b2/51759623/290
 
 #EXTINF:-1 tvg-logo="http://logo.mytektv.net/logo/nn/nickelodeon_us.png" group-title="KIDS" tvg-id="NICKELODEON" tvg-name="", NICKELODEON
 http://78.mytektv.net:8000/12axh902b2/51759623/291
-#EXTINF:-1 tvg-logo="noimage.png" group-title="MOVIES" tvg-id="TV SERIES" tvg-name="", TV SERIES
+#EXTINF:-1 tvg-logo="noimage.png" group-title="MOVIES" tvg-id="TV SERIES HD" tvg-name="", TV SERIES HD
 http://62.210.71.235:9000/live/liliana/liliana/3.ts
 
 #EXTINF:-1 tvg-logo="noimage.png" group-title="MOVIES" tvg-id="TVCINE 1" tvg-name="", TVCINE 1
@@ -103,7 +74,7 @@ http://62.210.71.235:9000/live/liliana/liliana/67.ts
 #EXTINF:-1 tvg-logo="noimage.png" group-title="MOVIES" tvg-id="TVCINE 4" tvg-name="", TVCINE 4
 http://62.210.71.235:9000/live/liliana/liliana/68.ts
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="MOVIES" tvg-id="FOX LIFE HD" tvg-name="", FOX LIFE HD
+#EXTINF:-1 tvg-logo="noimage.png" group-title="MOVIES" tvg-id="FOX LIFE HD" tvg-name="", FOX LIFE
 http://62.210.71.235:9000/live/liliana/liliana/96.ts
 
 #EXTINF:-1 tvg-logo="noimage.png" group-title="MOVIES" tvg-id="FOX COMEDY" tvg-name="", FOX COMEDY
@@ -112,30 +83,30 @@ http://62.210.71.235:9000/live/liliana/liliana/31.ts
 #EXTINF:-1 tvg-logo="noimage.png" group-title="MOVIES" tvg-id="NOS STUDIOS" tvg-name="", NOS STUDIOS
 http://62.210.71.235:9000/live/liliana/liliana/127.ts
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="SPORTS" tvg-id="SPORT TV 1 HD" tvg-name="", SPORT TV 1 HD
+#EXTINF:-1 tvg-logo="noimage.png" group-title="SPORTS" tvg-id="SPORT TV 1 HD" tvg-name="", SPORT TV 1
 http://62.210.71.235:9000/live/liliana/liliana/58.ts
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="SPORTS" tvg-id="SPORT TV 2 HD" tvg-name="", SPORT TV 2 HD
+#EXTINF:-1 tvg-logo="noimage.png" group-title="SPORTS" tvg-id="SPORT TV 2 HD" tvg-name="", SPORT TV 2
 http://62.210.71.235:9000/live/liliana/liliana/59.ts
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="SPORTS" tvg-id="SPORT TV 3 HD" tvg-name="", SPORT TV 3 HD
+#EXTINF:-1 tvg-logo="noimage.png" group-title="SPORTS" tvg-id="SPORT TV 3 HD" tvg-name="", SPORT TV 3
 http://62.210.71.235:9000/live/liliana/liliana/60.ts
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="SPORTS" tvg-id="SPORT TV 4 HD" tvg-name="", SPORT TV 4 HD
+#EXTINF:-1 tvg-logo="noimage.png" group-title="SPORTS" tvg-id="SPORT TV 4 HD" tvg-name="", SPORT TV 4
 http://62.210.71.235:9000/live/liliana/liliana/61.ts
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="SPORTS" tvg-id="SPORT TV 5 HD" tvg-name="", SPORT TV 5 HD
+#EXTINF:-1 tvg-logo="noimage.png" group-title="SPORTS" tvg-id="SPORT TV 5 HD" tvg-name="", SPORT TV 5
 http://62.210.71.235:9000/live/liliana/liliana/62.ts
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="SPORTS" tvg-id="SPORT TV + HD" tvg-name="", SPORT TV + HD
+#EXTINF:-1 tvg-logo="noimage.png" group-title="SPORTS" tvg-id="SPORT TV + HD" tvg-name="", SPORT TV +
 http://62.210.71.235:9000/live/liliana/liliana/63.ts
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="SPORTS" tvg-id="BTV" tvg-name="", BTV
+#EXTINF:-1 tvg-logo="noimage.png" group-title="SPORTS" tvg-id="BENFICA TV" tvg-name="", BENFICA TV
 http://62.210.71.235:9000/live/liliana/liliana/64.ts
 
 
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="EDUCATION" tvg-id="NATIONAL GEOGRAPHIC" tvg-name="", NATIONAL GEOGRAPHIC
+#EXTINF:-1 tvg-logo="noimage.png" group-title="EDUCATION" tvg-id="NATIONAL GEOGRAPHIC HD" tvg-name="", NATIONAL GEOGRAPHIC HD
 http://62.210.71.235:9000/live/liliana/liliana/112.ts
 
 #EXTINF:-1 tvg-logo="noimage.png" group-title="EDUCATION" tvg-id="DISCOVERY" tvg-name="", DISCOVERY
