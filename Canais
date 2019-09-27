@@ -31,31 +31,31 @@ http://62.210.71.235:9000/live/liliana/liliana/91.ts
 #EXTINF:-1 tvg-logo="https://github.com/f0nZ/epg-tv-portuguesa/blob/master/logos/RTP%20AFRICA.PNG" group-title="ENTERTAINMENT" tvg-id="RTP AFRICA" tvg-name="", RTP AFRICA
 http://62.210.71.235:9000/live/liliana/liliana/80.ts
 
-#EXTINF:-1 tvg-logo="http://logo.mytektv.net/logo/ss/sic_pt_k.png" group-title="KIDS" tvg-id="SIC K" tvg-name="", SIC K
+#EXTINF:-1 tvg-logo="http://logo.mytektv.net/logo/ss/sic_pt_k.png" group-title="FAMILY_KIDS" tvg-id="SIC K" tvg-name="", SIC K
 http://78.mytektv.net:8000/12axh902b2/51759623/273
 
-#EXTINF:-1 tvg-logo="http://logo.mytektv.net/logo/cc/canal_panda_pt.png" group-title="KIDS" tvg-id="PANDA" tvg-name="", PANDA
+#EXTINF:-1 tvg-logo="http://logo.mytektv.net/logo/cc/canal_panda_pt.png" group-title="FAMILY_KIDS" tvg-id="PANDA" tvg-name="", PANDA
 http://78.mytektv.net:8000/12axh902b2/51759623/293
 
-#EXTINF:-1 tvg-logo="http://logo.mytektv.net/logo/bb/biggs_pt.png" group-title="KIDS" tvg-id="BIGGS" tvg-name="", BIGGS
+#EXTINF:-1 tvg-logo="http://logo.mytektv.net/logo/bb/biggs_pt.png" group-title="FAMILY_KIDS" tvg-id="BIGGS" tvg-name="", BIGGS
 http://78.mytektv.net:8000/12axh902b2/51759623/292
 
-#EXTINF:-1 tvg-logo="http://logo.mytektv.net/logo/jj/jim_jam_global.png" group-title="KIDS" tvg-id="JIM JAM" tvg-name="", JIM JAM
+#EXTINF:-1 tvg-logo="http://logo.mytektv.net/logo/jj/jim_jam_global.png" group-title="FAMILY_KIDS" tvg-id="JIM JAM" tvg-name="", JIM JAM
 http://78.mytektv.net:8000/12axh902b2/51759623/289
 
-#EXTINF:-1 tvg-logo="http://logo.mytektv.net/logo/cc/cartoon_network_global.png" group-title="KIDS" tvg-id="CARTOON NETWORK" tvg-name="", CARTOON NETWORK
+#EXTINF:-1 tvg-logo="http://logo.mytektv.net/logo/cc/cartoon_network_global.png" group-title="FAMILY_KIDS" tvg-id="CARTOON NETWORK" tvg-name="", CARTOON NETWORK
 http://78.mytektv.net:8000/12axh902b2/51759623/288
 
-#EXTINF:-1 tvg-logo="http://logo.mytektv.net/logo/dd/disney_channel_global.png" group-title="KIDS" tvg-id="DISNEY CHANNEL" tvg-name="", DISNEY CHANNEL
+#EXTINF:-1 tvg-logo="http://logo.mytektv.net/logo/dd/disney_channel_global.png" group-title="FAMILY_KIDS" tvg-id="DISNEY CHANNEL" tvg-name="", DISNEY CHANNEL
 http://78.mytektv.net:8000/12axh902b2/51759623/295
 
-#EXTINF:-1 tvg-logo="http://logo.mytektv.net/logo/dd/disney_junior_us.png" group-title="KIDS" tvg-id="DISNEY JUNIOR" tvg-name="", DISNEY JUNIOR
+#EXTINF:-1 tvg-logo="http://logo.mytektv.net/logo/dd/disney_junior_us.png" group-title="FAMILY_KIDS" tvg-id="DISNEY JUNIOR" tvg-name="", DISNEY JUNIOR
 http://78.mytektv.net:8000/12axh902b2/51759623/294
 
-#EXTINF:-1 tvg-logo="http://logo.mytektv.net/logo/nn/nick_jr_us.png" group-title="KIDS" tvg-id="NICK JR" tvg-name="", NICK JR
+#EXTINF:-1 tvg-logo="http://logo.mytektv.net/logo/nn/nick_jr_us.png" group-title="FAMILY_KIDS" tvg-id="NICK JR" tvg-name="", NICK JR
 http://78.mytektv.net:8000/12axh902b2/51759623/290
 
-#EXTINF:-1 tvg-logo="http://logo.mytektv.net/logo/nn/nickelodeon_us.png" group-title="KIDS" tvg-id="NICKELODEON" tvg-name="", NICKELODEON
+#EXTINF:-1 tvg-logo="http://logo.mytektv.net/logo/nn/nickelodeon_us.png" group-title="FAMILY_KIDS" tvg-id="NICKELODEON" tvg-name="", NICKELODEON
 http://78.mytektv.net:8000/12axh902b2/51759623/291
 
 
