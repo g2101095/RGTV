@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="noimage.png" group-title="ENTERTAINMENT" tvg-id="RTP 1" tvg-name="", RTP 1
+#EXTINF:-1 tvg-logo="https://github.com/f0nZ/epg-tv-portuguesa/blob/master/logos/RTP%201%20HD.png" group-title="ENTERTAINMENT" tvg-id="RTP 1" tvg-name="", RTP 1
 http://62.210.71.235:9000/live/liliana/liliana/85.ts
 
 #EXTINF:-1 tvg-logo="noimage.png" group-title="ENTERTAINMENT" tvg-id="RTP 2" tvg-name="", RTP 2
