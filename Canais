@@ -23,41 +23,20 @@ http://62.210.71.235:9000/live/liliana/liliana/81.ts
 #EXTINF:-1 tvg-logo="https://github.com/f0nZ/epg-tv-portuguesa/blob/master/logos/CMTV.PNG" group-title="ENTERTAINMENT" tvg-id="CMTV" tvg-name="", CMTV
 http://62.210.71.235:9000/live/liliana/liliana/36.ts
 
-
-
 #EXTINF:-1 tvg-logo="https://github.com/f0nZ/epg-tv-portuguesa/blob/master/logos/RTP%20MEMORIA.PNG" group-title="ENTERTAINMENT" tvg-id="" tvg-name="RTP MEMORIA", RTP MEMORIA
 http://62.210.71.235:9000/live/liliana/liliana/91.ts
 
 #EXTINF:-1 tvg-logo="https://github.com/f0nZ/epg-tv-portuguesa/blob/master/logos/RTP%20AFRICA.PNG" group-title="ENTERTAINMENT" tvg-id="RTP AFRICA" tvg-name="", RTP AFRICA
 http://62.210.71.235:9000/live/liliana/liliana/80.ts
 
-#EXTINF:-1 tvg-logo="http://logo.mytektv.net/logo/ss/sic_pt_k.png" group-title="FAMILY_KIDS" tvg-id="SIC K" tvg-name="", SIC K
-http://78.mytektv.net:8000/12axh902b2/51759623/273
-
-#EXTINF:-1 tvg-logo="http://logo.mytektv.net/logo/cc/canal_panda_pt.png" group-title="FAMILY_KIDS" tvg-id="PANDA" tvg-name="", PANDA
-http://78.mytektv.net:8000/12axh902b2/51759623/293
-
-#EXTINF:-1 tvg-logo="http://logo.mytektv.net/logo/bb/biggs_pt.png" group-title="FAMILY_KIDS" tvg-id="BIGGS" tvg-name="", BIGGS
-http://78.mytektv.net:8000/12axh902b2/51759623/292
-
 #EXTINF:-1 tvg-logo="http://logo.mytektv.net/logo/jj/jim_jam_global.png" group-title="FAMILY_KIDS" tvg-id="JIM JAM" tvg-name="", JIM JAM
-http://78.mytektv.net:8000/12axh902b2/51759623/289
-
-#EXTINF:-1 tvg-logo="http://logo.mytektv.net/logo/cc/cartoon_network_global.png" group-title="FAMILY_KIDS" tvg-id="CARTOON NETWORK" tvg-name="", CARTOON NETWORK
-http://78.mytektv.net:8000/12axh902b2/51759623/288
+http://62.210.71.235:9000/live/liliana/liliana/164.ts
 
 #EXTINF:-1 tvg-logo="http://logo.mytektv.net/logo/dd/disney_channel_global.png" group-title="FAMILY_KIDS" tvg-id="DISNEY CHANNEL" tvg-name="", DISNEY CHANNEL
-http://78.mytektv.net:8000/12axh902b2/51759623/295
-
-#EXTINF:-1 tvg-logo="http://logo.mytektv.net/logo/dd/disney_junior_us.png" group-title="FAMILY_KIDS" tvg-id="DISNEY JUNIOR" tvg-name="", DISNEY JUNIOR
-http://78.mytektv.net:8000/12axh902b2/51759623/294
+http://62.210.71.235:9000/live/liliana/liliana/38.ts
 
 #EXTINF:-1 tvg-logo="http://logo.mytektv.net/logo/nn/nick_jr_us.png" group-title="FAMILY_KIDS" tvg-id="NICK JR" tvg-name="", NICK JR
-http://78.mytektv.net:8000/12axh902b2/51759623/290
-
-#EXTINF:-1 tvg-logo="http://logo.mytektv.net/logo/nn/nickelodeon_us.png" group-title="FAMILY_KIDS" tvg-id="NICKELODEON" tvg-name="", NICKELODEON
-http://78.mytektv.net:8000/12axh902b2/51759623/291
-
+http://62.210.71.235:9000/live/liliana/liliana/51.ts
 
 #EXTINF:-1 tvg-logo="https://github.com/f0nZ/epg-tv-portuguesa/blob/master/logos/TV%20SERIES.PNG" group-title="MOVIES" tvg-id="TVSERIES" tvg-name="", TVSERIES
 http://62.210.71.235:9000/live/liliana/liliana/3.ts
@@ -103,7 +82,6 @@ http://62.210.71.235:9000/live/liliana/liliana/63.ts
 
 #EXTINF:-1 tvg-logo="https://github.com/f0nZ/epg-tv-portuguesa/blob/master/logos/BENFICA%20TV.PNG" group-title="SPORTS" tvg-id="BENFICA TV" tvg-name="", BENFICA TV
 http://62.210.71.235:9000/live/liliana/liliana/64.ts
-
 
 
 #EXTINF:-1 tvg-logo="https://github.com/f0nZ/epg-tv-portuguesa/blob/master/logos/NATIONAL%20GEOGRAPHIC.PNG" group-title="EDUCATION" tvg-id="NATIONAL GEOGRAPHIC" tvg-name="", NATIONAL GEOGRAPHIC
