@@ -131,6 +131,234 @@ http://62.210.71.235:9000/live/liliana/liliana/73.ts
 
 FILMES
 
-#EXTINF:-1 tvg-logo="http://logo.smart-house.tn/poster/10012.jpg" group-title="PREMIER" tvg-id="" tvg-name="", PT_Avengers_Endgame_2019
-http://5.254.66.46:1339/movie/rwwRFlHtus/nb6zW8bmgq/28349.mkv
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/A1HqD2qdlDL._RI_.jpg" group-title="PREMIER",12 Strong (2018) (Geo)
+https://bobPREMIER.net/hl/12.Strong.2018hd.m3u8
+
+#EXTINF:-1 tvg-logo="https://bobPREMIER.net/uploads/posts/2018-06/1528671563_mv5bzmi0mjhjnjitzmu2mc00nmi1ltllogqtoduyngnmyjiynmjmxkeyxkfqcgdeqxvymty2ntq3odc._v1_sy1000_cr006661000_al_.jpg" group-title="PREMIER",2036 Origin Unknown (2018) (Geo)
+https://bobPREMIER.net/hl/OriginUnknown.2018.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/4e/67/db/4e67dbb3ef7051e344dfc526ef52cfc1.jpg" group-title="PREMIER",A Quiet Place (2018) (Geo)
+https://bobPREMIER.net/hl/A.Quiet.Place.2018.1080.m3u8
+
+#EXTINF:-1 tvg-logo="https://p0.cineserie.com/www.cineserie.com/wp-content/uploads/2018/09/1112363.jpg" group-title="PREMIER",Alien Predator (2018)
+https://maincache.streamlive.to/d2/Alien.Predator.2018.mp4?wmsAuthSign=c2VydmVyX3RpbWU9MTAvNi8yMDE4IDEyOjUwOjExIFBNJmhhc2hfdmFsdWU9U0U2Mmxvem9yOE5GZFk5TmFFVGlnQT09JnZhbGlkbWludXRlcz0xMDAmc3RybV9sZW49MjUmaWQ9NTM3MzI=
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300_and_h450_bestv2/5xSB0Npkc9Fd9kahKBsq9P4Cdzp.jpg" group-title="PREMIER",Batman Ninja (2018) (Geo)
+https://bobPREMIER.net/hl/Batman.Ninja.2018.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.ibb.co/innA4y/images_31.jpg" group-title="PREMIER",Beyond The Sky (2018)
+http://dacache.streamlive.to/movie/Beyond.The.Sky.2018.mp4/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny81LzIwMTggMTI6NTY6MTEgUE0maGFzaF92YWx1ZT1DTlVsOFRQemE4bStKN0R1Rm0wNHRRPT0mdmFsaWRtaW51dGVzPTEwMDAwJnN0cm1fbGVuPTI5JmlkPTUzNzMy
+
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/A1U5JgskPOL._RI_SX200_.jpg" group-title="PREMIER",Black Panther (2018) (Geo)
+https://bobPREMIER.net/hl/Black.Panther.2018.1080.m3u8
+
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/A1U5JgskPOL._RI_SX200_.jpg" group-title="PREMIER",Black Panther (2018)*
+http://dacache.streamlive.to/movie/Black.Panther.2018.mp4/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yLzIwMTggMzo0OTozMyBQTSZoYXNoX3ZhbHVlPVBtMFF0Y1c5disxOE5MeUpYbGJSOFE9PSZ2YWxpZG1pbnV0ZXM9MTAwMDAmc3RybV9sZW49MjgmaWQ9NTM3MzI=
+
+#EXTINF:-1 tvg-logo="https://www.itncart.com/wp-content/uploads/2018/06/Blockers-Poster.jpg" group-title="PREMIER",Blockers (2018)
+https://video.afdah.co/gdrive/YXJLaW1STm4vWTI4S3hSTHBnYmE0ZTExT2VBRkRrMEh0TGs3VTVoUlIzcHlvSGptUWhzUkNPeGVpNE9ka09jLw==/chunk-v1-a1.m3u8
+
+#EXTINF:-1 tvg-logo="https://1.fwcdn.pl/po/04/29/760429/7840533.6.jpg" group-title="PREMIER",Deadpool 2 (2018) (Geo)
+https://bobPREMIER.net/hl/Deadpool.2.2018.HD_720p.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.dvdsreleasedates.com/posters/800/D/Death-Wish-2017-movie-poster.jpg" group-title="PREMIER",Death Wish (2018) (Geo)
+https://bobPREMIER.net/hl/DeathWish.2018.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5VA80lB.jpg" group-title="PREMIER",Hellraiser: Judgment (2018) (Geo)
+https://bobPREMIER.net/hl/Hellraiser.Judgment.2018.m3u8
+
+#EXTINF:-1 tvg-logo="https://boulderjunction.wislib.org/components/com_rseventspro/assets/images/events/i_can_only_imagine-poster.jpg" group-title="PREMIER",I Can Only Imagine (2018) (Geo)
+https://bobPREMIER.net/hl/ICanOnlyImagine.2018.1080p.m3u8
+
+#EXTINF:-1 tvg-logo="https://1645110239.rsc.cdn77.org/image/f330x470/q50/mm/been/PREMIER18124/posters/i-feel-pretty.20180412032748.jpg" group-title="PREMIER",I Feel Pretty (2018)
+https://video.afdah.co/gdrive/OGJpWFlPRWpYbXh3eDFla2NRbXhNZHQxdEUvVm02UUh0K1BxYStyT1M2NFVLd3Q5UW1MeUxhVXFLa2ZHUzQybg==/chunk-v1-a1.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.dvdsreleasedates.com/posters/800/J/Jurassic-World-Fallen-Kingdom-2018-movie-poster.jpg" group-title="PREMIER",Jurassic World: Fallen Kingdom (2018) (Geo)
+https://bobPREMIER.net/hl/Jurassic.World.Fallen.Kingdom.2018.hddd_720p.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/balzertown.com/cinemaknifefight/wp-content/uploads/2018/03/pacificrimposter.jpg" group-title="PREMIER",Pacific Rim: Uprising (2018) (Geo)
+https://bobPREMIER.net/hl/Pacific.Rim.Uprising.2018.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/balzertown.com/cinemaknifefight/wp-content/uploads/2018/03/pacificrimposter.jpg" group-title="PREMIER",Pacific Rim: Uprising (2018)* (Geo)
+https://bobPREMIER.net/hl/Pacific.Rim.Uprising.2018_720p.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.ibb.co/mGnYLJ/download.jpg" group-title="PREMIER",Proud Mary (2018)
+http://video.afdah.co/N0MzR3pLM0sveG1HWUhsd3dKTSsraVVIejcrZGVwbndVcitDYy9NY0hkM1dkR3I1OW9GQSt6dGJjVTZRQ2xiSA==/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.phawker.com/wp-content/uploads/2018/02/red_sparrow_xlg-e1519604794563.jpg" group-title="PREMIER",Red Sparrow (2018) (Geo)
+https://bobPREMIER.net/hl/Red.Sparrow.2018_720p.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.ibb.co/gPhpep/MV5_BOGM3_Mz_Qw_Yz_It_NDA1_Ny00_Mz_Iy_LTg5_Y2_Qt_YTAw_Mz_Nm_MDU2_ZDgx_Xk_Ey_Xk_Fqc_Gde_QXVy_Mj_Mx_OTE0_ODA_V1_UX182_CR0_0_182_268_AL.jpg" group-title="PREMIER",Skyscraper (2018)
+https://maincache.streamlive.to/d2/Skyscraper.2018.mp4?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOC8yMDE4IDExOjI4OjQyIFBNJmhhc2hfdmFsdWU9Q3FaOEFObldldEIrTDF3aFZNTFhZQT09JnZhbGlkbWludXRlcz0xMDAmc3RybV9sZW49MjEmaWQ9NTM3MzI=&nimblesessionid=661155
+
+#EXTINF:-1 tvg-logo="https://image.ibb.co/bzST4J/images_38.jpg" group-title="PREMIER",SuperFly (2018)
+https://maincache.streamlive.to/d2/SuperFly.2018.mp4?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMi8yMDE4IDg6NTQ6NDIgUE0maGFzaF92YWx1ZT03ZTV6dVc3RVFmUUI2WlFWcHhlMkhBPT0mdmFsaWRtaW51dGVzPTEwMCZzdHJtX2xlbj0xOSZpZD01MzczMg==
+
+#EXTINF:-1 tvg-logo="http://api.comingsoon.net//images//2018/poster_91394_1517791240.jpg" group-title="PREMIER",The Cloverfield Paradox (2018) (Geo)
+https://bobPREMIER.net/hl/the.cloverfield.paradox.2018.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/72/The_Death_of_Superman_Bluray_cover.jpg/220px-The_Death_of_Superman_Bluray_cover.jpg" group-title="PREMIER",The Death of Superman (2018) (Geo)
+https://bobPREMIER.net/hl/The.Death.Of.Superman.2018_720p.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/49QhDoZ.jpg" group-title="PREMIER",The Neighbor (2018)
+https://bobPREMIER.net/hl/The.Neighbor.2017.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.ibb.co/gau5Ey/images_23.jpg" group-title="PREMIER",The Jurassic Games (2018)
+http://dacache.streamlive.to/movie/The.Jurassic.Games.2018.mp4/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yLzIwMTggMjo0OToxMyBBTSZoYXNoX3ZhbHVlPXcwVlVlakF2cGRNYnMwLzVvYS9TTGc9PSZ2YWxpZG1pbnV0ZXM9MTAwMDAmc3RybV9sZW49MzMmaWQ9NTM3MzI=
+
+#EXTINF:-1 tvg-logo="http://www.filmcafem.com/wp-content/uploads/2018/02/ilk-tanistigimiz-gece.jpg" group-title="PREMIER",When We First Met (2018) (Geo)
+https://bobPREMIER.net/hl/When.We.First.Met.2018.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.ibb.co/fcukZd/MV5_BMj_I2_OWE5_OGIt_MTE4_Yi00_Zm_Iz_LThj_ZDct_NTU1_OTMx_MTc3_Yjg4_Xk_Ey_Xk_Fqc_Gde_QXVy_Mj_M4_NTM5_NDY_V1_UX182_CR0_0_182_268_AL.jpg" group-title="PREMIER",Winchester (2018)
+http://video.afdah.co/dmhKeWx1aEFhd2xXVmxKNUdTcERYWnJmQ1NZcjJ3THYvSGo4REh2RGs1QWtPOGsxd2lYalVVcTRMcVdFTGdSZw==/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i1.wp.com/bloody-disgusting.com/wp-content/uploads/2017/05/Alien-Covenant-2.jpg" group-title="PREMIER",Alien - Covenant (2017)
+https://ia601505.us.archive.org/27/items/Cheverefans0022017.mkv/Cheverefans%200022017.mkv.mp4
+
+#EXTINF:-1 tvg-logo="https://i1.wp.com/bloody-disgusting.com/wp-content/uploads/2017/05/Alien-Covenant-2.jpg" group-title="PREMIER",Alien - Covenant (2017) [Dual-EN]
+https://ia601505.us.archive.org/27/items/Cheverefans0022017.mkv/Cheverefans%200022017.mkv.mp4
+
+#EXTINF:-1 tvg-logo="http://es.web.img3.acsta.net/c_215_290/pictures/17/03/02/11/10/280357.jpg" group-title="PREMIER",All Eyez on Me (2017) (Geo)
+https://bobPREMIER.net/hl/All_Eyez_on_Me_2017_n.m3u8
+
+#EXTINF:0 tvg-logo="https://marruda3.files.wordpress.com/2017/08/annabelle_creation_poster.jpg" group-title="PREMIER",Annabelle: Creation (2017)
+http://cdnvod.setv.ca/hls/Annabelle.2.Creation.2017.720p.BluRay.H264.AAC-RARBG.mp4/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300_and_h450_bestv2/tWqifoYuwLETmmasnGHO7xBjEtt.jpg" group-title="PREMIER",Beauty and the Beast (2017) (Geo)
+http://bobPREMIER.net/hl/Beauty_and_the_Beast_2017.m3u8
+
+#EXTINF:-1 tvg-logo="https://thebaytheatre.com/wp-content/uploads/2017/06/cars-3-affiche-5261428d69c9f.jpg" group-title="PREMIER",Cars 3 (2017) (Geo)
+https://bobPREMIER.net/hl/Cars_3_2017.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/98/Coco_%282017_film%29_poster.jpg" group-title="PREMIER",Coco (2017) (Geo)
+https://bobPREMIER.net/hl/Coco.2017.DVDScr_720p.m3u8
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-kX7BO3lLQW4/Wkl9yowVGzI/AAAAAAABEbA/QIuQuKjgM8wqD3Gcz9SugUwbXwbDnMm8gCLcBGAs/s1600/DarkestHourPoster.jpg" group-title="PREMIER",Darkest Hour (2017) (Geo)
+https://bobPREMIER.net/hl/Darkest.Hour.2017.WEB-DL.m3u8
+
+#EXTINF:-1 tvg-logo="https://secure.sfanytime.se/movieimages/COVER/64effb7a-e639-4857-a969-a78200c79f18_COVER_01.jpg" group-title="PREMIER",Descendants 2 (2017) (Geo)
+https://bobPREMIER.net/hl/Descendants_2_2017_HDRip.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.traileraddict.com/content/universal-pictures/despicable-me-3-7.jpg" group-title="PREMIER",Despicable Me 3 (2017) (Geo)
+https://bobPREMIER.net/hl/Despicable_Me_3_2017_1080p.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WbH2o4g.jpg" group-title="PREMIER",Downsizing (2017) (Geo)
+https://bobPREMIER.net/hl/Downsizing.2017.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/35/Flatliners_%282017%29.jpg" group-title="PREMIER",Flatliners (2017) (Geo)
+https://bobPREMIER.net/hl/Flatliners.2017.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.femalefirst.co.uk/image-library/port/1000/f/fmd-packshot-lo-res-copy.jpg" group-title="PREMIER",Fun Mom Dinner (2017) (Geo)
+https://bobPREMIER.net/hl/Fun_Mom_Dinner_2017.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/y7xZWra.jpg" group-title="PREMIER",Geostorm (2017) (Geo)
+https://bobPREMIER.net/hl/Geostorm.2017HDRip.m3u8
+
+#EXTINF:-1 tvg-logo="https://i1.wp.com/tiffanyyong.com/wp-content/uploads/2017/04/Gifted-SG-Poster.jpg " group-title="PREMIER",Gifted (2017)
+https://ia601504.us.archive.org/19/items/Family1960196003/Family_1960-196003.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300_and_h450_bestv2/v95dBDcFb8Hpinm0mSew4PQ6NAL.jpg" group-title="PREMIER",Godzilla: Planet of the Monsters (2017) (Geo)
+https://bobPREMIER.net/hl/Godzilla.Monster.Planet.2017.WEBRip.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300_and_h450_bestv2/v95dBDcFb8Hpinm0mSew4PQ6NAL.jpg" group-title="PREMIER",Godzilla: Planet of the Monsters (2017)*
+https://archive.org/download/GodzillaMonsterPlanet/Godzilla%20Monster%20Planet.mp4
+
+#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Video51/v4/2a/80/3c/2a803c7a-de54-caf9-07d3-2c02b1a74109/source/1200x630bb.jpg" group-title="PREMIER",Hickok (2017) (Geo)
+https://bobPREMIER.net/hl/Hickok_2017.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/llO5A6x.jpg" group-title="PREMIER",It (2017) (Geo)
+https://bobPREMIER.net/hl/IT.2017.EBRip.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300_and_h450_bestv2/j49G5F7dZVeGzAB8Fnc2GdzO1T.jpg" group-title="PREMIER",Jeepers Creepers 3 (2017) (Geo)
+https://bobPREMIER.net/hl/Jeepers_Creepers_3.2017.HDRip.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300_and_h450_bestv2/gvBVIlcMaeWKhGjgGjlShiL4w4r.jpg" group-title="PREMIER",Jigsaw (2017) (Geo)
+https://bobPREMIER.net/hl/Jigsaw.2017.WEB-DL.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/0b/0a/fc/0b0afc8a728d7ff6fad7d25aabe5862d.jpg" group-title="PREMIER",Jumanji: Welcome to the Jungle (2017) (Geo)
+https://bobPREMIER.net/hl/Jumanji_2018_HDTS.m3u8
+
+#EXTINF:-1 tvg-logo="https://usercontent2.hubstatic.com/13788815.jpg" group-title="PREMIER",Justice League (2017) (Geo)
+https://bobPREMIER.net/hl/Justice.League.2017_hd.m3u8
+
+#EXTINF:-1 tvg-logo="https://usercontent2.hubstatic.com/13788815.jpg" group-title="PREMIER",Justice League (2017)*
+https://www.porntrex.com/get_file/16/e7473f7066cb3b1e717e91fdeddc585952ff6fdb1a/302000/302414/302414_720p.mp4/?download=true&download_filename=justice-league_720p.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300_and_h450_bestv2/lGa2sK2LdcHQjasYyukl3P2nras.jpg" group-title="PREMIER",Justice League Dark (2017) (Geo)
+https://bobPREMIER.net/hl/Justice_League_Dark_2017_720p.m3u8
+
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51PH0fb-q0L.jpg" group-title="PREMIER",Molly's Game (2017)
+https://video.afdah.co/Q1hPeXhxZ1FEN1E5YmdLWjNlMWdsR082aFoxaG93VHNUdFRqZnJEQStHYWVBemNhcmlhVVZ5V0tUZk4xNzZxRg==/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bd/Murder_on_the_Orient_Express_teaser_poster.jpg" group-title="PREMIER",Murder on the Orient Express (2017) (Geo)
+https://bobPREMIER.net/hl/Murder.on.the.Orient.Express.2017_HD.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8c/Naked_%282017_film%29_poster.jpg" group-title="PREMIER",Naked (2017) (Geo)
+https://bobPREMIER.net/hl/Naked_2017_WEBRip.m3u8
+
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-rENAVUaiN-E/WWguR4zJuaI/AAAAAAAAC4M/17Ve6rm6OVMc2fV2SdMIGFbOANlyDZnggCLcBGAs/s1600/Okja%2B%25282017%2529%2BBong%2BJoon-ho.jpg" group-title="PREMIER",Okja (2017) (Geo)
+https://bobPREMIER.net/hl/Okja_2017.m3u8
+
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91Cqv8yKp8L._RI_.jpg" group-title="PREMIER",Only the Brave (2017) (Geo)
+https://bobPREMIER.online/hl/Only.the.Brave.2017.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.flickeringmyth.com/wp-content/uploads/2017/10/Paddington2poster-203x300.jpg" group-title="PREMIER",Paddington 2 (2017) (Geo)
+https://bobPREMIER.net/hl/Paddington.2.2017.TS.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300_and_h450_bestv2/xbpSDU3p7YUGlu9Mr6Egg2Vweto.jpg" group-title="PREMIER",Pirates of the Caribbean: Dead Men Tell No Tales (2017) (Geo)
+https://bobPREMIER.net/hl/Pirates_of_the_Caribbean_2017.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.movieweb.com/img.teasers.posters/FIdaWkpvhHJUhd_384_a/Power-Rangers.jpg" group-title="PREMIER",Power Rangers (2017) (Geo)
+https://bobPREMIER.net/hl/Power_Rangers_2017_1080p.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300_and_h450_bestv2/diYAZ6CKUuRAqLYMB2AyVutEFm0.jpg" group-title="PREMIER",Smurfs: The Lost Village (2017) (Geo)
+https://bobPREMIER.net/hl/Smurfs_The_Lost_Village_2017.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300_and_h450_bestv2/c24sv2weTHPsmDa7jEMN0m2P3RT.jpg" group-title="PREMIER",Spider-Man: Homecoming (2017) (Geo)
+https://bobPREMIER.net/hl/Spider_Man_Homecoming_2017.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/c9/5a/19/c95a19c2a1c994e554090f58b762da6a.png" group-title="",Star Wars: Episode VIII - The Last Jedi (2017) (Geo)
+https://bobPREMIER.net/hl/Star.Wars.The.Last.Jedi.2017hd_720p.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.rogerebert.com/uploads/movie/movie_poster/the-boss-baby-2017/large_IMG_5157.JPG" group-title="PREMIER",The Boss Baby (2017) (Geo)
+https://bobPREMIER.net/hl/The_Boss_Baby_2017_WEB-DL.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.circuitocinemagenova.com/wp-content/uploads/thecircle-299x443.jpg" group-title="PREMIER",The Circle (2017) (Geo)
+https://bobPREMIER.net/hl/The_Circle_2017_1080p.m3u8
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/cinemorgue/images/d/d8/Darktowerposter.jpg" group-title="PREMIER",The Dark Tower (2017) (Geo)
+https://bobPREMIER.net/hl/The_Dark_Tower_2017_hdd.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/26/64/a0/2664a043e4c3d0053131e9c7492682dd.jpg" group-title="PREMIER",The Fate of the Furious (2017) (Geo)
+https://bobPREMIER.net/hl/The_Fate_of_the_Furious_2017_1080p.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/10/The_Greatest_Showman_poster.png" group-title="PREMIER",The Greatest Showman (2017) (Geo)
+https://bobPREMIER.net/hl/The.Greatest.Showman.2017.KORSUB.HDRipT.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.dvdsreleasedates.com/posters/800/T/The-Hitmans-Bodyguard-2017-movie-poster.jpg" group-title="PREMIER",The Hitman's Bodyguard (2017) (Geo)
+https://bobPREMIER.net/hl/The_Hitmans_Bodyguard_2017.m3u8
+
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/pictures/17/01/19/10/26/431368.jpg" group-title="PREMIER",The Nut Job 2: Nutty by Nature (2017) (Geo)
+https://bobPREMIER.net/hl/The.Nut.Job.2.Nutty.by.Nature.2017.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0b/The_Post_%28film%29.png" group-title="PREMIER",The Post (2017) (Geo)
+http://bobPREMIER.net/hl/The.Post.2017.TS.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/VnIIyjTDlYU/movieposter.jpg" group-title="PREMIER",The Shape of Water (2017) (Geo)
+https://bobPREMIER.net/hl/The.Shape.of.Water.2017.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300_and_h450_bestv2/oSLd5GYGsiGgzDPKTwQh7wamO8t.jpg" group-title="PREMIER",Thor: Ragnarok (2017) (Geo)
+https://bobPREMIER.net/hl/Thor.Ragnarok.2017.web.m3u8
+
+#EXTINF:-1 tvg-logo="http://vpz-hr.s3-eu-west-1.amazonaws.com/wp-content/uploads/2017/08/02075950/valerian.jpg" group-title="PREMIER",Valerian and the City of a Thousand Planets (2017) (Geo)
+https://bobPREMIER.net/hl/ValerianandtheCityofaThousandPlanets2017_HD.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.dvdsreleasedates.com/posters/800/W/War-for-the-Planet-of-the-Apes-2017-movie-poster.jpg" group-title="PREMIER",War for the Planet of the Apes (2017) (Geo)
+https://bobPREMIER.net/hl/War.For.The.Planet.Of.The.Apes.2017nn.m3u8
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/67/Wish_upon_ver2.jpg/220px-Wish_upon_ver2.jpg" group-title="PREMIER",Wish Upon (2017)
+http://cdnvod.setv.ca/hls/Wish.Upon.2017.UNRATED.BDRip.x264-DRONES.mp4/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ed/Wonder_Woman_%282017_film%29.jpg" group-title="PREMIER",Wonder Woman (2017)
+http://deadlyblogger.com/NewRelease/wonderwoman.mp4
 
