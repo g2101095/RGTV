@@ -129,20 +129,8 @@ http://62.210.71.235:9000/live/liliana/liliana/151.ts
 #EXTINF:-1 tvg-logo="https://github.com/f0nZ/epg-tv-portuguesa/blob/master/logos/TPA%20INTERNACIONAL.PNG" group-title="LIFE_STYLE" tvg-id="TPA INTERNACIONAL" tvg-name="", TPA INTERNACIONAL
 http://62.210.71.235:9000/live/liliana/liliana/73.ts
 
-#EXTINF:-1 tvg-logo="http://logo.smart-house.tn/poster/10013.jpg" group-title="PREMIER" tvg-id="" tvg-name="", PT_Aladdin_2019
-http://78.mytektv.net:8000/movie/12axh902b2/51759623/10013.mkv
+FILMES
 
 #EXTINF:-1 tvg-logo="http://logo.smart-house.tn/poster/10012.jpg" group-title="PREMIER" tvg-id="" tvg-name="", PT_Avengers_Endgame_2019
-http://78.mytektv.net:8000/movie/12axh902b2/51759623/10012.mkv
-
-#EXTINF:-1 tvg-logo="http://logo.smart-house.tn/poster/10011.jpg" group-title="PREMIER" tvg-id="" tvg-name="", PT_John_Wick_Chapter_3-Parabellum_2019
-http://78.mytektv.net:8000/movie/12axh902b2/51759623/10011.mkv
-
-#EXTINF:-1 tvg-logo="http://logo.smart-house.tn/poster/10015.jpg" group-title="PREMIER" tvg-id="" tvg-name="", PT_Men_In_Black_International_2019
-http://78.mytektv.net:8000/movie/12axh902b2/51759623/10015.mkv
-
-#EXTINF:-1 tvg-logo="http://logo.smart-house.tn/poster/10014.jpg" group-title="PREMIER" tvg-id="" tvg-name="", PT_Rocketman_2019
-http://78.mytektv.net:8000/movie/12axh902b2/51759623/10014.mkv
-
-
+http://5.254.66.46:1339/movie/rwwRFlHtus/nb6zW8bmgq/28349.mkv
 
