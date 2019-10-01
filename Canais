@@ -1,8 +1,8 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://github.com/f0nZ/epg-tv-portuguesa/blob/master/logos/RTP%201.PNG" group-title="ENTERTAINMENT" tvg-id="RTP 1" tvg-name="", RTP 1
+#EXTINF:-1 tvg-logo="https://drive.google.com/file/d/1HLCHudP-6KzedHkp6HL3swdydmkzAwOY/view" group-title="ENTERTAINMENT" tvg-id="RTP 1" tvg-name="", RTP 1
 http://62.210.71.235:9000/live/liliana/liliana/85.ts
 
-#EXTINF:-1 tvg-logo="https://github.com/f0nZ/epg-tv-portuguesa/blob/master/logos/RTP%202.PNG" group-title="ENTERTAINMENT" tvg-id="RTP 2" tvg-name="", RTP 2
+#EXTINF:-1 tvg-logo="https://drive.google.com/file/d/1t8THk2KSF9TeHJHoZT2M__73TP1kKYHn/view" group-title="ENTERTAINMENT" tvg-id="RTP 2" tvg-name="", RTP 2
 http://62.210.71.235:9000/live/liliana/liliana/86.ts
 
 #EXTINF:-1 tvg-logo="https://github.com/f0nZ/epg-tv-portuguesa/blob/master/logos/SIC.PNG" group-title="ENTERTAINMENT" tvg-id="SIC" tvg-name="", SIC
