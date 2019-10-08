@@ -131,3 +131,27 @@ http://IPSERVIDOR:9000/live/username/username/73.ts
 
 FILMES
 
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="PREMIER" ,Projeto Gemini
+http://topiptv.tk/LHMTvPlay/Gemini-Man?LHMTv
+
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="PREMIER" ,Pets – A Vida Secreta dos Bichos 2 HD
+http://topiptv.tk/LHMTvPlay/The-Secret-Life-of-Pets-2?LHMTv
+
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="PREMIER" ,Sombra Lunar
+http://topiptv.tk/LHMTvPlay/In-the-Shadow-of-the-Moon?LHMTv
+
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="PREMIER" ,Angry Birds 2: O Filme
+http://topiptv.tk/LHMTvPlay/AngryBirds2?LHMTv
+
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="PREMIER" ,It: A Coisa – Capitulo 2
+http://topiptv.tk/LHMTvPlay/ItChapterTwo?LHMTv
+
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="PREMIER" ,Velozes & Furiosos: Hobbs & Shaw
+http://tyr.lhmtv.gq/redecanais/VLZEFROSOSHBSESWLEG.mp4?LHMTv
+
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="PREMIER" ,Vingadores: Ultimato 4K
+http://tyr.lhmtv.gq/redecanais/VNGDRSULTMTO4K.mp4?LHMTv
+
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="PREMIER" ,Hellboy 2019 HD
+http://thor.lhmtv.gq/filmes/hellboy-dub-1080p.mp4?LHMTv
+
